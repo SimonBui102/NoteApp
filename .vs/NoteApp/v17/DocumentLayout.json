@@ -3,16 +3,52 @@
   "WorkspaceRootPath": "E:\\Job\\Soft_dev\\Projects\\NoteApp\\NoteApp\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{C7A6D818-7701-4A6C-9B6A-CB386175B582}|NoteApp\\NoteApp.csproj|e:\\job\\soft_dev\\projects\\noteapp\\noteapp\\noteapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7A6D818-7701-4A6C-9B6A-CB386175B582}|NoteApp\\NoteApp.csproj|solutionrelative:noteapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C7A6D818-7701-4A6C-9B6A-CB386175B582}|NoteApp\\NoteApp.csproj|e:\\job\\soft_dev\\projects\\noteapp\\noteapp\\noteapp\\controllers\\notecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C7A6D818-7701-4A6C-9B6A-CB386175B582}|NoteApp\\NoteApp.csproj|solutionrelative:noteapp\\controllers\\notecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C7A6D818-7701-4A6C-9B6A-CB386175B582}|NoteApp\\NoteApp.csproj|e:\\job\\soft_dev\\projects\\noteapp\\noteapp\\noteapp\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C7A6D818-7701-4A6C-9B6A-CB386175B582}|NoteApp\\NoteApp.csproj|solutionrelative:noteapp\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C7A6D818-7701-4A6C-9B6A-CB386175B582}|NoteApp\\NoteApp.csproj|e:\\job\\soft_dev\\projects\\noteapp\\noteapp\\noteapp\\services\\noteservice\\noteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7A6D818-7701-4A6C-9B6A-CB386175B582}|NoteApp\\NoteApp.csproj|solutionrelative:noteapp\\services\\noteservice\\noteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C7A6D818-7701-4A6C-9B6A-CB386175B582}|NoteApp\\NoteApp.csproj|e:\\job\\soft_dev\\projects\\noteapp\\noteapp\\noteapp\\models\\note.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C7A6D818-7701-4A6C-9B6A-CB386175B582}|NoteApp\\NoteApp.csproj|solutionrelative:noteapp\\models\\note.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7A6D818-7701-4A6C-9B6A-CB386175B582}|NoteApp\\NoteApp.csproj|e:\\job\\soft_dev\\projects\\noteapp\\noteapp\\noteapp\\services\\noteservice\\inoteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7A6D818-7701-4A6C-9B6A-CB386175B582}|NoteApp\\NoteApp.csproj|solutionrelative:noteapp\\services\\noteservice\\inoteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7A6D818-7701-4A6C-9B6A-CB386175B582}|NoteApp\\NoteApp.csproj|e:\\job\\soft_dev\\projects\\noteapp\\noteapp\\noteapp\\dtos\\note\\getnotedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7A6D818-7701-4A6C-9B6A-CB386175B582}|NoteApp\\NoteApp.csproj|solutionrelative:noteapp\\dtos\\note\\getnotedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7A6D818-7701-4A6C-9B6A-CB386175B582}|NoteApp\\NoteApp.csproj|e:\\job\\soft_dev\\projects\\noteapp\\noteapp\\noteapp\\dtos\\note\\addnotedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7A6D818-7701-4A6C-9B6A-CB386175B582}|NoteApp\\NoteApp.csproj|solutionrelative:noteapp\\dtos\\note\\addnotedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7A6D818-7701-4A6C-9B6A-CB386175B582}|NoteApp\\NoteApp.csproj|e:\\job\\soft_dev\\projects\\noteapp\\noteapp\\noteapp\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7A6D818-7701-4A6C-9B6A-CB386175B582}|NoteApp\\NoteApp.csproj|solutionrelative:noteapp\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7A6D818-7701-4A6C-9B6A-CB386175B582}|NoteApp\\NoteApp.csproj|e:\\job\\soft_dev\\projects\\noteapp\\noteapp\\noteapp\\migrations\\20251104112307_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7A6D818-7701-4A6C-9B6A-CB386175B582}|NoteApp\\NoteApp.csproj|solutionrelative:noteapp\\migrations\\20251104112307_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7A6D818-7701-4A6C-9B6A-CB386175B582}|NoteApp\\NoteApp.csproj|e:\\job\\soft_dev\\projects\\noteapp\\noteapp\\noteapp\\migrations\\datacontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7A6D818-7701-4A6C-9B6A-CB386175B582}|NoteApp\\NoteApp.csproj|solutionrelative:noteapp\\migrations\\datacontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7A6D818-7701-4A6C-9B6A-CB386175B582}|NoteApp\\NoteApp.csproj|e:\\job\\soft_dev\\projects\\noteapp\\noteapp\\noteapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C7A6D818-7701-4A6C-9B6A-CB386175B582}|NoteApp\\NoteApp.csproj|solutionrelative:noteapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7A6D818-7701-4A6C-9B6A-CB386175B582}|NoteApp\\NoteApp.csproj|e:\\job\\soft_dev\\projects\\noteapp\\noteapp\\noteapp\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7A6D818-7701-4A6C-9B6A-CB386175B582}|NoteApp\\NoteApp.csproj|solutionrelative:noteapp\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +58,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 648,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,40 +66,180 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NoteService.cs",
+              "DocumentMoniker": "E:\\Job\\Soft_dev\\Projects\\NoteApp\\NoteApp\\NoteApp\\Services\\NoteService\\NoteService.cs",
+              "RelativeDocumentMoniker": "NoteApp\\Services\\NoteService\\NoteService.cs",
+              "ToolTip": "E:\\Job\\Soft_dev\\Projects\\NoteApp\\NoteApp\\NoteApp\\Services\\NoteService\\NoteService.cs",
+              "RelativeToolTip": "NoteApp\\Services\\NoteService\\NoteService.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwCEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T12:01:02.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GetNoteDto.cs",
+              "DocumentMoniker": "E:\\Job\\Soft_dev\\Projects\\NoteApp\\NoteApp\\NoteApp\\Dtos\\Note\\GetNoteDto.cs",
+              "RelativeDocumentMoniker": "NoteApp\\Dtos\\Note\\GetNoteDto.cs",
+              "ToolTip": "E:\\Job\\Soft_dev\\Projects\\NoteApp\\NoteApp\\NoteApp\\Dtos\\Note\\GetNoteDto.cs",
+              "RelativeToolTip": "NoteApp\\Dtos\\Note\\GetNoteDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T11:44:35.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AddNoteDto.cs",
+              "DocumentMoniker": "E:\\Job\\Soft_dev\\Projects\\NoteApp\\NoteApp\\NoteApp\\Dtos\\Note\\AddNoteDto.cs",
+              "RelativeDocumentMoniker": "NoteApp\\Dtos\\Note\\AddNoteDto.cs",
+              "ToolTip": "E:\\Job\\Soft_dev\\Projects\\NoteApp\\NoteApp\\NoteApp\\Dtos\\Note\\AddNoteDto.cs",
+              "RelativeToolTip": "NoteApp\\Dtos\\Note\\AddNoteDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T11:42:34.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20251104112307_Initial.cs",
+              "DocumentMoniker": "E:\\Job\\Soft_dev\\Projects\\NoteApp\\NoteApp\\NoteApp\\Migrations\\20251104112307_Initial.cs",
+              "RelativeDocumentMoniker": "NoteApp\\Migrations\\20251104112307_Initial.cs",
+              "ToolTip": "E:\\Job\\Soft_dev\\Projects\\NoteApp\\NoteApp\\NoteApp\\Migrations\\20251104112307_Initial.cs",
+              "RelativeToolTip": "NoteApp\\Migrations\\20251104112307_Initial.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T11:24:10.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DataContextModelSnapshot.cs",
+              "DocumentMoniker": "E:\\Job\\Soft_dev\\Projects\\NoteApp\\NoteApp\\NoteApp\\Migrations\\DataContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "NoteApp\\Migrations\\DataContextModelSnapshot.cs",
+              "ToolTip": "E:\\Job\\Soft_dev\\Projects\\NoteApp\\NoteApp\\NoteApp\\Migrations\\DataContextModelSnapshot.cs",
+              "RelativeToolTip": "NoteApp\\Migrations\\DataContextModelSnapshot.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAIBJwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T11:23:58.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\Job\\Soft_dev\\Projects\\NoteApp\\NoteApp\\NoteApp\\appsettings.json",
+              "RelativeDocumentMoniker": "NoteApp\\appsettings.json",
+              "ToolTip": "E:\\Job\\Soft_dev\\Projects\\NoteApp\\NoteApp\\NoteApp\\appsettings.json",
+              "RelativeToolTip": "NoteApp\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAACDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-04T11:18:09.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Job\\Soft_dev\\Projects\\NoteApp\\NoteApp\\NoteApp\\Program.cs",
+              "RelativeDocumentMoniker": "NoteApp\\Program.cs",
+              "ToolTip": "E:\\Job\\Soft_dev\\Projects\\NoteApp\\NoteApp\\NoteApp\\Program.cs",
+              "RelativeToolTip": "NoteApp\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABcAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T11:15:17.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "E:\\Job\\Soft_dev\\Projects\\NoteApp\\NoteApp\\NoteApp\\Data\\DataContext.cs",
+              "RelativeDocumentMoniker": "NoteApp\\Data\\DataContext.cs",
+              "ToolTip": "E:\\Job\\Soft_dev\\Projects\\NoteApp\\NoteApp\\NoteApp\\Data\\DataContext.cs",
+              "RelativeToolTip": "NoteApp\\Data\\DataContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T11:12:33.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "NoteController.cs",
               "DocumentMoniker": "E:\\Job\\Soft_dev\\Projects\\NoteApp\\NoteApp\\NoteApp\\Controllers\\NoteController.cs",
               "RelativeDocumentMoniker": "NoteApp\\Controllers\\NoteController.cs",
               "ToolTip": "E:\\Job\\Soft_dev\\Projects\\NoteApp\\NoteApp\\NoteApp\\Controllers\\NoteController.cs",
               "RelativeToolTip": "NoteApp\\Controllers\\NoteController.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "ViewState": "AQIAABAAAAAAAAAAAAA6wCIAAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-02T12:19:34.615Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Note.cs",
               "DocumentMoniker": "E:\\Job\\Soft_dev\\Projects\\NoteApp\\NoteApp\\NoteApp\\Models\\Note.cs",
               "RelativeDocumentMoniker": "NoteApp\\Models\\Note.cs",
               "ToolTip": "E:\\Job\\Soft_dev\\Projects\\NoteApp\\NoteApp\\NoteApp\\Models\\Note.cs",
               "RelativeToolTip": "NoteApp\\Models\\Note.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAuAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-02T12:15:13.184Z"
+              "WhenOpened": "2025-11-02T12:15:13.184Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 11,
               "Title": "WeatherForecastController.cs",
               "DocumentMoniker": "E:\\Job\\Soft_dev\\Projects\\NoteApp\\NoteApp\\NoteApp\\Controllers\\WeatherForecastController.cs",
               "RelativeDocumentMoniker": "NoteApp\\Controllers\\WeatherForecastController.cs",
               "ToolTip": "E:\\Job\\Soft_dev\\Projects\\NoteApp\\NoteApp\\NoteApp\\Controllers\\WeatherForecastController.cs",
               "RelativeToolTip": "NoteApp\\Controllers\\WeatherForecastController.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABQAAAAuAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBJwBQAAAAuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-02T12:11:03.22Z"
+              "WhenOpened": "2025-11-02T12:11:03.22Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "FloatingWindowState": {
+        "Id": "6999be4d-3190-4307-903e-9c06e8d52149",
+        "Display": 1,
+        "X": 341,
+        "Y": 99,
+        "Width": 1180,
+        "Height": 611,
+        "WindowState": 0
+      },
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "INoteService.cs",
+              "DocumentMoniker": "E:\\Job\\Soft_dev\\Projects\\NoteApp\\NoteApp\\NoteApp\\Services\\NoteService\\INoteService.cs",
+              "RelativeDocumentMoniker": "NoteApp\\Services\\NoteService\\INoteService.cs",
+              "ToolTip": "E:\\Job\\Soft_dev\\Projects\\NoteApp\\NoteApp\\NoteApp\\Services\\NoteService\\INoteService.cs",
+              "RelativeToolTip": "NoteApp\\Services\\NoteService\\INoteService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T11:26:22.125Z",
+              "EditorCaption": ""
             }
           ]
         }

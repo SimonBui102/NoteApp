@@ -1,4 +1,8 @@
 
+using Microsoft.EntityFrameworkCore;
+using NoteApp.Data;
+using NoteApp.Services.NoteService;
+
 namespace NoteApp
 {
     public class Program
@@ -8,11 +12,16 @@ namespace NoteApp
             var builder = WebApplication.CreateBuilder(args);
 
             // Add services to the container.
+            builder.Services.AddDbContext<DataContext>(options =>
+                options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection"))
+            
+            );
 
             builder.Services.AddControllers();
             // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
             builder.Services.AddEndpointsApiExplorer();
             builder.Services.AddSwaggerGen();
+            builder.Services.AddScoped<INoteService, NoteService>();
 
             var app = builder.Build();
 
